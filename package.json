@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
+    "url": "git+ssh://git@github.com:Anshul1128/wedding-website.git"
   },
   "keywords": [
     "wedding",
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Anshul Thakkar",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/wedding-website",
+  "homepage": "https://github.com/Anshul1128/wedding-website",
   "devDependencies": {
     "gulp": "^5.0.0",
     "gulp-rename": "^1.4.0",
